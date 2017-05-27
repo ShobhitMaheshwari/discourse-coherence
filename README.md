@@ -8,5 +8,5 @@ pip install --upgrade pip
 pip install --trusted-host pypi.python.org -r requirements.txt
 
 Michale Collins parser for extracting subject/object/neither from here http://www.cs.columbia.edu/~mcollins/code.html
-
+The Stanford Parser: A statistical parser https://nlp.stanford.edu/software/lex-parser.shtml#Download
 
